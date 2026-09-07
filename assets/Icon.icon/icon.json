@@ -1,0 +1,58 @@
+{
+  "fill" : {
+    "automatic-gradient" : "extended-srgb:0.79608,0.18824,0.87843,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "Modrinth_Logo.png",
+          "name" : "Modrinth_Logo",
+          "position" : {
+            "scale" : 2.36,
+            "translation-in-points" : [
+              268.7,
+              261.4
+            ]
+          }
+        },
+        {
+          "image-name" : "logo.svg",
+          "name" : "logo",
+          "position" : {
+            "scale" : 7.5,
+            "translation-in-points" : [
+              -258.018701028765,
+              -261.4043442126758
+            ]
+          }
+        },
+        {
+          "image-name" : "Image.png",
+          "name" : "Image",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

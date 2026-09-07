@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=NoRiskClient Extraction Tool
+Comment=Install NoRisk Client packs into an existing Minecraft profile
+Exec=nrctool
+Icon=nrctool
+Terminal=false
+Categories=Game;Utility;
