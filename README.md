@@ -60,4 +60,5 @@ You probably need a mac for this to work (intel should be fine)
 ```sh
 ./scripts/build-macos-app.sh
 ./scripts/build-macos-app.sh --install
+./scripts/build-macos-app.sh --notarize
 ```
